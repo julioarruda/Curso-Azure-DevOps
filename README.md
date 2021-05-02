@@ -133,16 +133,16 @@ Infelizmente agora não consigo mais fornecer um certificado, mas espero que o c
 
 ## Configurações de Work
 -  [Project Configuration](https://youtu.be/eJscFzkGyJk)
--  Falta 1
+-  [Team Configuration](https://youtu.be/muZoG4gDoB0)
 
 ## Configurações de Build e Release
--  
-- 
-- 
+-  [Paralell Jobs](https://youtu.be/MuEjkH8Qo8s)
+
 ##  Configurações de Repositório
--  
--  
-- 
+-  [Permissões em Repositorios](https://youtu.be/lK5p30vok64)
 ## Configurações de Usuário
--  
--  
+-  [Análise de uso do usuário](https://youtu.be/ji4mrYS78ks)
+-  [Configurando Credenciais Alternativas](https://youtu.be/G3rCECx3g3U)
+-  [Criando Chaves SSH](https://youtu.be/TxRarjAOwdU)
+-  [Criando Notificações para usuário](https://youtu.be/Wm0L14JsTrA)
+-  [Personal Access Token, Oque são, e como gerenciá-las](https://youtu.be/rjuiHPXVKPY)
