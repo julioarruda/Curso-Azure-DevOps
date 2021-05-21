@@ -4,6 +4,10 @@
 Recentemente, fiz uma promessa de que, quando meu canal no Youtube atingisse a marca de 10 mil inscritos, eu iria compartilhar todo esse conteúdo gratuitamente para a comunidade. No dia 27/04/2021, graças ao apoio de vocês, atingimos essa marca, e então, estou aqui compartilhando todo o conteúdo com vocês.
 
 Infelizmente agora não consigo mais fornecer um certificado, mas espero que o conteúdo seja útil a todos vocês.
+
+## Participe do nossos Grupos
+- [Discord](https://discord.gg/HAr9WFYkpB)
+- [Telegram](https://t.me/github_br)
   
  ## Inicio - Boas Vindas
  -  [Bem Vindos](https://youtu.be/BL1P94orXC4)
